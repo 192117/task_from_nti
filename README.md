@@ -121,7 +121,7 @@
 
 ### По url http://95.217.64.252:81/redoc/ и http://95.217.64.252:81/swagger/ доступна OPEN API спецификация.
 
-### Коллекция [POSTMAN]()
+### Коллекция [POSTMAN](https://github.com/192117/task_from_nti/blob/master/user_task/DRF%20NTI.postman_collection.json)
 
 ### Настройки NGINX и UWSGI
 
