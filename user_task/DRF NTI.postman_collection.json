@@ -21,15 +21,15 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/registr/",
+					"raw": "http://95.217.64.252:81/api/v1/registr/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -55,15 +55,15 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/login/",
+					"raw": "http://95.217.64.252:81/api/v1/login/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -82,7 +82,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4MDg0NjcxLCJpYXQiOjE2NTgwODQzNzEsImp0aSI6IjAwNTU2ZDQ3MGRlMjQ5Yjg5ZDczN2RkOGJjYjg3NjVmIiwidXNlcl9pZCI6MSwiZW1haWwiOiJ0ZXN0QGV4YW1wbGUuY29tIn0.R-7okFV6Kb4KVYwC21Jw1AYZ1zGPG4-oe75p3zLOnng",
 							"type": "string"
 						}
 					]
@@ -99,15 +99,15 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/task/create/",
+					"raw": "http://95.217.64.252:81/api/v1/task/create/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -135,15 +135,15 @@
 					]
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/token/refresh/",
+					"raw": "http://95.217.64.252:81/api/v1/token/refresh/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -170,15 +170,15 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/registr/",
+					"raw": "http://95.217.64.252:81/api/v1/registr/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -204,15 +204,15 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/login/",
+					"raw": "http://95.217.64.252:81/api/v1/login/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -231,7 +231,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4MDg0NzYwLCJpYXQiOjE2NTgwODQ0NjAsImp0aSI6IjlhNmQ4OWUyNDBmZTRkMWZiNTBmMDgwZGRmMjE2ZTlkIiwidXNlcl9pZCI6MiwiZW1haWwiOiJ0QGV4YW1wbGUuY29tIn0.2N08u5VkWryhpr2YYTPGVbpmnwtN7Z2JRrkj_X2-rFM",
 							"type": "string"
 						}
 					]
@@ -248,15 +248,15 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/task/create/",
+					"raw": "http://95.217.64.252:81/api/v1/task/create/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -276,7 +276,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4MDg0NzYwLCJpYXQiOjE2NTgwODQ0NjAsImp0aSI6IjlhNmQ4OWUyNDBmZTRkMWZiNTBmMDgwZGRmMjE2ZTlkIiwidXNlcl9pZCI6MiwiZW1haWwiOiJ0QGV4YW1wbGUuY29tIn0.2N08u5VkWryhpr2YYTPGVbpmnwtN7Z2JRrkj_X2-rFM",
 							"type": "string"
 						}
 					]
@@ -284,15 +284,15 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/task/all/",
+					"raw": "http://95.217.64.252:81/api/v1/task/all/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -312,7 +312,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4MDg0NzYwLCJpYXQiOjE2NTgwODQ0NjAsImp0aSI6IjlhNmQ4OWUyNDBmZTRkMWZiNTBmMDgwZGRmMjE2ZTlkIiwidXNlcl9pZCI6MiwiZW1haWwiOiJ0QGV4YW1wbGUuY29tIn0.2N08u5VkWryhpr2YYTPGVbpmnwtN7Z2JRrkj_X2-rFM",
 							"type": "string"
 						}
 					]
@@ -320,15 +320,15 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/task/my/",
+					"raw": "http://95.217.64.252:81/api/v1/task/my/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -348,7 +348,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4MDg0NzYwLCJpYXQiOjE2NTgwODQ0NjAsImp0aSI6IjlhNmQ4OWUyNDBmZTRkMWZiNTBmMDgwZGRmMjE2ZTlkIiwidXNlcl9pZCI6MiwiZW1haWwiOiJ0QGV4YW1wbGUuY29tIn0.2N08u5VkWryhpr2YYTPGVbpmnwtN7Z2JRrkj_X2-rFM",
 							"type": "string"
 						}
 					]
@@ -365,15 +365,15 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/task/detail/:pk/",
+					"raw": "http://95.217.64.252:81/api/v1/task/detail/:pk/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -403,7 +403,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4MDg0NzYwLCJpYXQiOjE2NTgwODQ0NjAsImp0aSI6IjlhNmQ4OWUyNDBmZTRkMWZiNTBmMDgwZGRmMjE2ZTlkIiwidXNlcl9pZCI6MiwiZW1haWwiOiJ0QGV4YW1wbGUuY29tIn0.2N08u5VkWryhpr2YYTPGVbpmnwtN7Z2JRrkj_X2-rFM",
 							"type": "string"
 						}
 					]
@@ -420,15 +420,63 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/task/detail/:pk/",
+					"raw": "http://95.217.64.252:81/api/v1/task/detail/:pk/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
+					"path": [
+						"api",
+						"v1",
+						"task",
+						"detail",
+						":pk",
+						""
+					],
+					"variable": [
+						{
+							"key": "pk",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "task detail get without token",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://95.217.64.252:81/api/v1/task/detail/:pk/",
+					"protocol": "http",
+					"host": [
+						"95",
+						"217",
+						"64",
+						"252"
+					],
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -455,7 +503,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4MDE2MTY2LCJpYXQiOjE2NTgwMTU0NTYsImp0aSI6IjFiNDMxMzZkMTUwYzQ3NGQ5NWUxMTQ0Y2YzODg1MWRkIiwidXNlcl9pZCI6MiwiZW1haWwiOiJ0QGV4YW1wbGUuY29tIn0.RKFQ0bzuzCKi8KRbXZFkCyR_6Hj9p7LplAw1pdRssRc",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4MDg0NzYwLCJpYXQiOjE2NTgwODQ0NjAsImp0aSI6IjlhNmQ4OWUyNDBmZTRkMWZiNTBmMDgwZGRmMjE2ZTlkIiwidXNlcl9pZCI6MiwiZW1haWwiOiJ0QGV4YW1wbGUuY29tIn0.2N08u5VkWryhpr2YYTPGVbpmnwtN7Z2JRrkj_X2-rFM",
 							"type": "string"
 						}
 					]
@@ -472,15 +520,15 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/v1/task/detail/:pk/",
+					"raw": "http://95.217.64.252:81/api/v1/task/detail/:pk/",
 					"protocol": "http",
 					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
+						"95",
+						"217",
+						"64",
+						"252"
 					],
-					"port": "8000",
+					"port": "81",
 					"path": [
 						"api",
 						"v1",
@@ -494,6 +542,42 @@
 							"key": "pk",
 							"value": "2"
 						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "task all after delete",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4MDg0NzYwLCJpYXQiOjE2NTgwODQ0NjAsImp0aSI6IjlhNmQ4OWUyNDBmZTRkMWZiNTBmMDgwZGRmMjE2ZTlkIiwidXNlcl9pZCI6MiwiZW1haWwiOiJ0QGV4YW1wbGUuY29tIn0.2N08u5VkWryhpr2YYTPGVbpmnwtN7Z2JRrkj_X2-rFM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://95.217.64.252:81/api/v1/task/all/",
+					"protocol": "http",
+					"host": [
+						"95",
+						"217",
+						"64",
+						"252"
+					],
+					"port": "81",
+					"path": [
+						"api",
+						"v1",
+						"task",
+						"all",
+						""
 					]
 				}
 			},
